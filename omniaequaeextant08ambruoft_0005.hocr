@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./omniaequaeextant08ambruoft_0005.png"; bbox 0 0 1774 3158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 945 810 975">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 945 810 975">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 945 810 975; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 628 945 810 975; x_wconf 71' lang='lat' dir='ltr'><strong>§ELEGTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 1107 1310 1655">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 1107 1310 1655">
+     <span class='ocr_line' id='line_1_2' title="bbox 137 1107 1266 1179; baseline -0.009 0"><span class='ocrx_word' id='word_1_2' title='bbox 137 1110 258 1179; x_wconf 86' lang='lat' dir='ltr'><strong>SS-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 320 1107 796 1178; x_wconf 83' lang='lat' dir='ltr'><strong>ECCLESIAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 845 1109 1266 1179; x_wconf 77' lang='lat' dir='ltr'>PATRUM.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 662 1287 780 1329; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 662 1287 780 1329; x_wconf 83' lang='lat' dir='ltr'>LXI.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 144 1603 1310 1655; baseline 0.001 -15"><span class='ocrx_word' id='word_1_6' title='bbox 144 1604 363 1642; x_wconf 80' lang='lat' dir='ltr'><strong>PATRES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 407 1603 642 1655; x_wconf 79' lang='lat' dir='ltr'>QUARTI</span> <span class='ocrx_word' id='word_1_8' title='bbox 689 1605 1000 1643; x_wconf 78' lang='lat' dir='ltr'>ECCLESIAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1051 1604 1310 1644; x_wconf 74' lang='lat' dir='ltr'>SAECULL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 518 1766 936 1809">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 361 1766 936 1823">
+     <span class='ocr_line' id='line_1_5' title="bbox 518 1766 936 1809; baseline 0.01 -4.362"><span class='ocrx_word' id='word_1_10' title='bbox 518 1767 561 1809; x_wconf 84' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 592 1766 753 1809; x_wconf 82' lang='lat' dir='ltr'><em>AMBR</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 760 1766 936 1809; x_wconf 63' lang='grc' dir='ltr'><em>θείω.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
